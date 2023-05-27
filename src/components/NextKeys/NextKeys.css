@@ -1,0 +1,16 @@
+.next-keys-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+  
+.next-keys-label {
+    font-weight: bold;
+    margin-right: 5px;
+}
+  
+.next-keys-value {
+    font-size: 16px;
+}
+  
